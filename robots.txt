@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /impressum.html
+Disallow: /privacy.html
+Disallow: /tos.html
